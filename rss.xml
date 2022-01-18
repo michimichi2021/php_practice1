@@ -29,12 +29,11 @@
 	<link>https://tomosta.jp</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 <site xmlns="com-wordpress:feed-additions:1">200908896</site>	<item>
 		<title>有料講座、Git/SourceTreeマスター講座をスタートしました</title>
 		<link>https://tomosta.jp/news/%e6%9c%89%e6%96%99%e8%ac%9b%e5%ba%a7%e3%80%81git-sourcetree%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e8%ac%9b%e5%ba%a7%e3%82%92%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/</link>
 					<comments>https://tomosta.jp/news/%e6%9c%89%e6%96%99%e8%ac%9b%e5%ba%a7%e3%80%81git-sourcetree%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e8%ac%9b%e5%ba%a7%e3%82%92%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/#respond</comments>
-		
 		<dc:creator><![CDATA[たにぐち　まこと]]></dc:creator>
 		<pubDate>Fri, 07 Jan 2022 23:02:25 +0000</pubDate>
 				<category><![CDATA[お知らせ]]></category>
